@@ -1,0 +1,112 @@
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('Montserrat/static/Montserrat-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Montserrat-Medium';
+    src: url('Montserrat/static/Montserrat-Medium.ttf') format('truetype');
+    font-style: normal;
+    font-display: swap;
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Montserrat-SemiBold';
+    src: url('Montserrat/static/Montserrat-SemiBold.ttf') format('truetype');
+    font-style: normal;
+    font-display: swap;
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('Montserrat/static/Montserrat-Bold.ttf') format('truetype');
+    font-style: normal;
+    font-display: swap;
+    font-weight: 700;
+}
+
+/*@font-face {*/
+/*    font-family: 'Golos Text SemiBold';*/
+/*    src: local('Golos Text SemiBold'), url('../fonts/GolosText-SemiBold.ttf') format('truetype');*/
+/*    font-weight: 600;*/
+/*    font-style: normal;*/
+/*    font-display: swap;*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'Golos Text Medium';*/
+/*    src: local('Golos Text Medium'), url('../fonts/GolosText-Medium.ttf') format('truetype');*/
+/*    font-weight: 500;*/
+/*    font-style: normal;*/
+/*    font-display: swap;*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'Golos Text Regular';*/
+/*    src: local('Golos Text Regular'), url('../fonts/GolosText-Regular.ttf') format('truetype');*/
+/*    font-weight: 400;*/
+/*    font-style: normal;*/
+/*    font-display: swap;*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'GetVoIP Grotesque Regular';*/
+/*    src: local('GetVoIP Grotesque Regular'), url('../fonts/GetVoIP-Grotesque.ttf') format('truetype'),*/
+/*    url('../fonts/GetVoIP-Grotesque.otf') format('otf');*/
+/*    font-weight: 400;*/
+/*    font-style: normal;*/
+/*    font-display: swap;*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'Inter Regular';*/
+/*    src: local('Inter Regular'), url('../fonts/Inter_18pt-Regular.ttf') format('truetype');*/
+/*    font-weight: 400;*/
+/*    font-style: normal;*/
+/*    font-display: swap;*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'Inter Semi Bold';*/
+/*    src: local('Inter Semi Bold'), url('../fonts/Inter_18pt-SemiBold.ttf') format('truetype');*/
+/*    font-weight: 600;*/
+/*    font-style: normal;*/
+/*    font-display: swap;*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'Inter Extra Bold';*/
+/*    src: local('Inter Extra Bold'), url('../fonts/Inter_18pt-ExtraBold.ttf') format('truetype');*/
+/*    font-weight: 800;*/
+/*    font-style: normal;*/
+/*    font-display: swap;*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'HelveticaNeueCyr-Light';*/
+/*    src: url('../fonts/HelveticaNeueCyr-Light.woff') format('woff');*/
+/*    font-style: normal;*/
+/*    font-display: swap;*/
+/*    font-weight: 300;*/
+/*}*/
+
+/*!*@font-face {*!*/
+/*!*    font-family: 'Inter Regular';*!*/
+/*!*    src: url('../fonts/radiotechnika.eot');*!*/
+/*!*    src: url('../fonts/radiotechnika.eot?#iefix') format('embedded-opentype'),*!*/
+/*!*    url('../fonts/radiotechnika.woff') format('woff'),*!*/
+/*!*    url('../fonts/radiotechnika.ttf') format('truetype');*!*/
+/*!*    font-style: normal;*!*/
+/*!*    font-weight: 400;*!*/
+/*!*}*!*/
+/*!*@font-face {*!*/
+/*!*    font-family: 'Radiotechnika';*!*/
+/*!*    src: url('../fonts/radiotechnika.eot');*!*/
+/*!*    src: url('../fonts/radiotechnika.eot?#iefix') format('embedded-opentype'),*!*/
+/*!*    url('../fonts/radiotechnika.woff') format('woff'),*!*/
+/*!*    url('../fonts/radiotechnika.ttf') format('truetype');*!*/
+/*!*    font-style: normal;*!*/
+/*!*    font-weight: 400;*!*/
+/*!*}*!*/
