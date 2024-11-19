@@ -582,7 +582,8 @@
     @media (max-width: 490px) {
       display: flex;
       flex-direction: column;
-      padding: 20px 0;
+      padding: 40px 5px;
+      align-items: center;
     }
   }
 
@@ -601,10 +602,13 @@
     @media (max-width: 490px) {
       background-position: center;
       background-size: contain;
-      top: -30px;
+      top: -50px;
       left: 0;
-      right: 0;
-      bottom: -50px;
+      /* right: 0;
+      bottom: 0; */
+      max-width: 100%;
+      height: 135%;
+      background-image: url('../image/radiator/mask.svg');
     }
   }
 
@@ -614,6 +618,12 @@
     width: 100%;
     margin-bottom: 30px;
     margin-right: 20px;
+
+    @media (max-width: 490px) {
+      max-width: 280px;
+      margin-right: 0;
+      margin-bottom: 15px;
+    }
   }
 
   .contacts-name__title {
@@ -623,6 +633,10 @@
     color: #fff;
     text-align: left;
     margin-bottom: 10px;
+
+    @media (max-width: 490px) {
+      font-size: 32px;
+    }
   }
 
   .contacts-name__subtitle {
@@ -631,11 +645,19 @@
     font-size: 14px;
     line-height: 1.35714;
     color: #fff;
+
+    @media (max-width: 490px) {
+      font-size: 12px;
+    }
   }
 
   .contacts-svyaz {
     display: inline-block;
     max-width: 150px;
+
+    @media (max-width: 490px) {
+      max-width: 280px;
+    }
   }
 
   .contacts-svyaz__link {
@@ -650,6 +672,11 @@
     margin-bottom: 10px;
     vertical-align: middle;
 
+    @media (max-width: 490px) {
+      font-size: 12px;
+      margin-bottom: 8px;
+    }
+
     svg {
       margin-right: 10px;
     }
@@ -660,6 +687,9 @@
   }
 
   .contacts-address {
+    @media (max-width: 450px) {
+      min-width: 280px;
+    }
     svg {
       display: inline-block;
       margin-right: 15px;
@@ -679,7 +709,7 @@
     color: #fff;
     display: inline-block;
 
-    @media (max-width: 450px) {
+    @media (max-width: 490px) {
       font-size: 13px;
     }
   }
